@@ -1,2 +1,7 @@
 Event-Driven Programming: https://py2.codeskulptor.org/#user49_r1eM0E9pEe_0.py
 Local vs Global Variables: https://py2.codeskulptor.org/#user49_I9SLFnIzL1_0.py 
+Simplegui intro: https://py2.codeskulptor.org/#user49_YY3EPEfQlE_0.py
+Simplegui buttons: https://py2.codeskulptor.org/#user49_d8fUe4Sk2L_0.py
+Simplegui input field: https://py2.codeskulptor.org/#user49_8Gqtz9fGwS_0.py
+programming tips: https://py2.codeskulptor.org/#user49_eJOrdYa6XI_0.py
+RPSLS with input: https://py2.codeskulptor.org/#user49_GJpiGGJFWc_2.py
