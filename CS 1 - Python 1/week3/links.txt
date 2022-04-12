@@ -1,0 +1,12 @@
+Drawing canvas 1: https://py2.codeskulptor.org/#user49_OsMjSe3HEH_0.py
+Drawing canvas 2: https://py2.codeskulptor.org/#user49_81RNm6CKtu_0.py
+String processing: https://py2.codeskulptor.org/#user49_kZiJsI8Oxq_0.py
+Counting dollars wrong: https://py2.codeskulptor.org/#user49_Ldj2c4nDw8_0.py
+Counting dollars correct: https://py2.codeskulptor.org/#user49_ZMsbn8Qdgs_0.py
+Counting dollars interactive: https://py2.codeskulptor.org/#user49_yam4EHhHHx_0.py
+Draw circle: https://py2.codeskulptor.org/practice.html#user49_eAj9Nso2kL_0.py
+Truck: https://py2.codeskulptor.org/#user49_9hjMpCJLv1_0.py
+Timer_with_drawing example: https://py2.codeskulptor.org/#user49_L86AKQAJ7S_0.py
+Programming tips 1: https://py2.codeskulptor.org/#user49_rdCbxZqucr_0.py
+Programming tips 2: https://py2.codeskulptor.org/#user49_m1D60nwiFc_0.py
+Reflex test: https://py2.codeskulptor.org/#user49_FNFzi8yxSs_0.py
