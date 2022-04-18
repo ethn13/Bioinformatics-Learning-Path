@@ -10,3 +10,4 @@ Timer_with_drawing example: https://py2.codeskulptor.org/#user49_L86AKQAJ7S_0.py
 Programming tips 1: https://py2.codeskulptor.org/#user49_rdCbxZqucr_0.py
 Programming tips 2: https://py2.codeskulptor.org/#user49_m1D60nwiFc_0.py
 Reflex test: https://py2.codeskulptor.org/#user49_FNFzi8yxSs_0.py
+Mini-project: Stopwatch: The Game: https://py2.codeskulptor.org/#user49_rnUhPmsLeI_3.py
